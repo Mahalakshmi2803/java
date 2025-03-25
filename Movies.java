@@ -1,0 +1,5 @@
+enum Movies{
+	
+	DHOOM,BAHUBALI,RRR,COURT,RUN;
+}
+
